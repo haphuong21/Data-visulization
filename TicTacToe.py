@@ -7,7 +7,6 @@
     #check diagonals
 #check tie
 #flip player
-# ------Global Variables-------
 
 # board
 board = ["-", "-", "-",
